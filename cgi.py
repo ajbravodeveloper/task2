@@ -29,4 +29,4 @@ elif ("thank" in p):
 	print("It's my pleasure")
 
 else:
-	print("Sorry...Try it again....")
+	print("Sorry...Try again....")
